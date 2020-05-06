@@ -1,0 +1,45 @@
+body{
+    background-color:skyblue;
+}
+a{
+    color: honeydew;
+}
+.bodi{
+    background-color: rgb(59, 112, 190);
+    border-radius: 15%;
+}
+ h2{
+    text-align: center;
+}
+.tabel1{
+    background-color: rgb(57, 247, 221);
+}
+.tabel2{
+    background-color: rgb(5, 189, 202);
+}
+div.judul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+table{
+    margin:auto;
+}
+hr{
+    border-style: dotted;
+    border-radius: 10%;
+    border-top-color: rgb(0, 22, 218);
+    border-width: 10px;
+}
+img{
+    border-radius: 10%;
+}
+#kun{
+    text-align: center;
+}
+#bord{
+    border-radius: 10%;
+}
+caption{
+    font-size: 18pt;
+    color:whitesmoke;
+}
